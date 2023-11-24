@@ -7,6 +7,8 @@ const App = () => {
       test
       test
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis perspiciatis impedit ratione saepe delectus voluptatibus. Consectetur illo iure, nam itaque expedita veniam veritatis doloribus, autem ipsam, cum suscipit quia.
+
+      feature 1
     </>
   );
 };
